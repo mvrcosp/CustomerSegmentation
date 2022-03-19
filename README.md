@@ -10,19 +10,18 @@
 
 ## Business Problem
 
-The company marketing team is challenged with the task  --
+The company marketing team is challenged with the task of identifying similar customers based on business attributes such as 
 
 ## Business Assumptions
 
 
 ## Breaking problem into tasks
 
-
 ## Solution Strategy
 
-## EDA Findings
-
 ## Machine Learning
+
+## EDA Findings
 
 ## Business Results
 
