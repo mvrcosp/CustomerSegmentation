@@ -1,4 +1,4 @@
-# MFP Customer Segmentation
+# Customer Segmentation
 
 ## Segmenting customers to better understand their behaviors and plan marketing campaigns
 
@@ -10,12 +10,16 @@
 
 ## Business Problem
 
-The company marketing team is challenged with the task of identifying similar customers based on business attributes such as 
+The company marketing team is challenged with the task of identifying customers with similar shopping habits. We'll be using unsupervised learning to segment customers into groups to better understand them when planing publicity campaigns.
 
 ## Business Assumptions
 
 
+
 ## Breaking problem into tasks
+
+- Load the customer data available  
+- Explore the dataset for missing and abnormal values
 
 ## Solution Strategy
 
